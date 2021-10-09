@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-85:12
+INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:6:5-44:19
+	android:theme
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:6:18-71
+activity#com.airlook.citysand.OverrideUnityActivity
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:7:9-12:40
+	android:process
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:12:13-37
+	android:launchMode
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:11:13-44
+	android:hardwareAccelerated
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:10:13-48
+	android:configChanges
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:9:13-194
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:8:13-70
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:13:9-27:20
+	android:screenOrientation
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:18:13-49
+	android:launchMode
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:17:13-44
+	android:hardwareAccelerated
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:16:13-48
+	android:configChanges
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:15:13-194
+	android:theme
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:14:13-66
+meta-data#unityplayer.UnityActivity
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:21:13-23:40
+	android:value
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:23:17-37
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:22:17-57
+meta-data#android.notch_support
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:25:17-53
+meta-data#unity.splash-mode
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:29:9-31:33
+	android:value
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:31:13-30
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:30:13-45
+meta-data#unity.splash-enable
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:32:9-34:36
+	android:value
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:34:13-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:33:13-47
+meta-data#notch.config
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:35:9-37:50
+	android:value
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:37:13-47
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:36:13-40
+meta-data#unity.build-id
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:38:9-40:68
+	android:value
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:40:13-65
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:39:13-42
+meta-data#com.google.ar.core
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:41:9-43:40
+	android:value
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:42:13-46
+uses-feature#0x00030000
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:46:5-54
+	android:glEsVersion
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:46:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:47:5-49:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:49:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:48:9-55
+uses-permission#android.permission.INTERNET
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:51:5-67
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:51:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:52:5-79
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:52:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:53:5-79
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:53:22-76
+uses-feature#android.hardware.location.gps
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:55:5-57:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:57:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:56:9-53
+uses-feature#android.hardware.location
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:58:5-60:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:60:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:59:9-49
+uses-permission#android.permission.CAMERA
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:62:5-65
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:62:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:64:5-66:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:66:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:65:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:67:5-69:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:69:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:68:9-57
+uses-feature#android.hardware.camera.front
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:70:5-72:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:72:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:71:9-53
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:73:5-75:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:75:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:74:9-61
+uses-feature#android.hardware.touchscreen
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:76:5-78:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:78:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:77:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:79:5-81:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:81:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:80:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:82:5-84:36
+	android:required
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:84:9-33
+	android:name
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml:83:9-72
+uses-sdk
+INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		ADDED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
+		INJECTED from D:\unity_firms\androidBuild\unityLibrary\src\main\AndroidManifest.xml
